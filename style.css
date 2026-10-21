@@ -70,7 +70,7 @@ h1, h2, h3, .brand, .btn { font-family: "Bubblegum Sans", "Nunito", sans-serif; 
   position: relative; overflow: hidden;
   padding: 56px 16px 72px; text-align: center;
   background: linear-gradient(180deg, rgba(16, 11, 31, 0.35) 0%, rgba(16, 11, 31, 0.55) 60%, var(--plum-deep) 100%),
-              url("img/hero-bg.webp") center / cover no-repeat;
+              url("hero-bg.webp") center / cover no-repeat;
 }
 .hero-logo { width: min(560px, 92%); margin: 0 auto; filter: drop-shadow(0 12px 28px rgba(0, 0, 0, 0.6)); animation: bob 4s ease-in-out infinite; }
 @keyframes bob { 50% { transform: translateY(-8px); } }
